@@ -32,6 +32,7 @@ while(true)
     switch (opt)
     {
         case "1":
+            Console.Clear();
             player.ShowSongs();
             break;
         case "2":
