@@ -12,3 +12,4 @@
 /Users/gio/Desktop/c#/MusicPlayer/obj/Debug/net8.0/MusicPlayer.pdb
 /Users/gio/Desktop/c#/MusicPlayer/obj/Debug/net8.0/MusicPlayer.genruntimeconfig.cache
 /Users/gio/Desktop/c#/MusicPlayer/obj/Debug/net8.0/ref/MusicPlayer.dll
+/Users/gio/Desktop/c#/MusicPlayer/obj/Debug/net8.0/MusicPlayer.sourcelink.json
